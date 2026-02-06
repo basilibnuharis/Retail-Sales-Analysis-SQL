@@ -24,6 +24,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 ```sql
 CREATE DATABASE Retail_Sales_P1;
+USE Retail_Sales_P1;
 
 DROP TABLE IF EXISTS retail_sales;
 CREATE TABLE retail_sales
@@ -197,7 +198,8 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## How to Use
 
 1. **Clone the Repository**: Clone this project repository from GitHub.
-2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
+2. **Set Up the Database**: Run the SQL scripts provided in the `Retail Sales Analytics project.sql` file to create and populate the database.
+3. **Run the Queries**: Use the SQL queries provided in the `Retail Sales Analytics project.sql` file to perform your analysis.
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
+
 
